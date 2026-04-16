@@ -81,18 +81,22 @@ g++ PR-2.cpp
 
 ---
 
-## 💻 Output
+## 📷 Output Screenshots
 
-```
+### ➕ Add Student
 ![Add](output/PR-2-IMAGE-1.png)
+
+### 📋 Display Students
 ![Display](output/PR-2-IMAGE-2.png)
+
+### 🔍 Search Student
 ![Search](output/PR-2-IMAGE-3.png)
+
 ---
 
 ## 📊 Example Operations
 
 * Add Students:
-
   * ID: 101 → tisha
   * ID: 102 → jiya
   * ID: 103 → vibhuti
@@ -100,14 +104,14 @@ g++ PR-2.cpp
 * Display: Shows all students
 
 * Search:
-
   * Input: 102
   * Output: jiya
 
 * Remove:
-
   * Input: 103
   * Output: Student Removed Successfully
+
+---
 
 ## 👩‍💻 Author
 
@@ -120,4 +124,3 @@ g++ PR-2.cpp
 This project demonstrates basic CRUD operations using C++ and helps in understanding how data can be managed dynamically using vectors and templates.
 
 ---
-
