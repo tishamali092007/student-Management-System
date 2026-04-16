@@ -84,13 +84,13 @@ g++ PR-2.cpp
 ## 📷 Output Screenshots
 
 ### ➕ Add Student
-![Add](output/PR-2-IMAGE-1.png)
+![Add](OUTPUT/PR-2-IMAGE-1.png)
 
 ### 📋 Display Students
-![Display](output/PR-2-IMAGE-2.png)
+![Display](OUTPUT/PR-2-IMAGE-2.png)
 
 ### 🔍 Search Student
-![Search](output/PR-2-IMAGE-3.png)
+![Search](OUTPUT/PR-2-IMAGE-3.png)
 
 ---
 
