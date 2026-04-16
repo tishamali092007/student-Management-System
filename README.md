@@ -84,9 +84,9 @@ g++ PR-2.cpp
 ## 💻 Output
 
 ```
-![Add](PR-2-IMAGE-1)
-![Display](PR-2-IMAGE-2)
-![Search](PR-2-IMAGE-3)
+![Add](output/PR-2-IMAGE-1.png)
+![Display](output/PR-2-IMAGE-2.png)
+![Search](output/PR-2-IMAGE-3.png)
 ---
 
 ## 📊 Example Operations
